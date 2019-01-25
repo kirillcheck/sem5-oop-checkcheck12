@@ -62,9 +62,9 @@ lst.append(myComment3)
 """
 Создание объектов для класса Record
 """
-myRecord = Record('Vehova', 'First record',lst)
-myRecord2 = Record('Vehova2', 'First record2',lst)
-myRecord3 = Record('Vehova3', 'First record3',lst)
+myRecord = Record('shakhov', 'First record',lst)
+myRecord2 = Record('shakhov', 'First record2',lst)
+myRecord3 = Record('shakhov', 'First record3',lst)
 
 """
 Создание пустого списка для добавления в него объектов класса Record
